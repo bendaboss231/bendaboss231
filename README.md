@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bendaboss231
 - 👀 I’m interested in coding automated trading bots, machine learning, & software to help run my business
-- 🌱 I’m currently learning C#, Python, how to use github and microsoft visual studios 
+- 🌱 I’m currently learning C#, Python, how to use github, microsoft visual studios, and cybersecurity
 - 💞️ I’m looking to collaborate on ... not sure yet
 - 📫 How to reach me through my email jeanannosier21@gmail.com
 
